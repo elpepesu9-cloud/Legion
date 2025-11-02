@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function(){
     });
 
     // Discord links
-    const discordUrl = 'https://discord.gg/aE52t9ANDd';
+    const discordUrl = 'https://discord.gg/TS58E5Zjtk';
     const discordBtns = document.querySelectorAll('#discordBtn, #discordJoin, #discordCard');
     discordBtns.forEach(btn => {
         btn.addEventListener('click', (e) => {
